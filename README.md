@@ -60,8 +60,11 @@ The aim is to provide a modern solution to a modern problem. The audience is qui
 
 Decided upon Merriweather Sans and Murecho from Google Fonts. Samples below:
 
+#### Murecho
 ![Murecho Font Sample](assets/images/murecho-font-sample.png)
 
+
+#### Merriweather
 ![Merriweather Font Sample](assets/images/merriweather-font-sample.png)
 
 ### Wireframe Design
