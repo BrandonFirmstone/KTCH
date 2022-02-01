@@ -52,6 +52,18 @@ The aim is to provide a modern solution to a modern problem. The audience is qui
 
 ## UX Design
 
+### Colour Palette
+
+
+
+### Fonts
+
+Decided upon Merriweather Sans and Murecho from Google Fonts. Samples below:
+
+![Murecho Font Sample](assets/images/murecho-font-sample.png)
+
+![Merriweather Font Sample](assets/images/merriweather-font-sample.png)
+
 ### Wireframe Design
 
 The below are wireframe designs created using Balsamiq for individual pages on the site.
@@ -119,6 +131,16 @@ Each wireframe includes mobile and desktop views.
 - JQuery: https://releases.jquery.com/
 
 ### Credits for Media
+
+### UX Research Acknowledgements
+
+While trying to decide upon fonts and colour palettes I researched the topic of kitchens and other similar solutions to better inform my design choices.
+
+- https://www.goodhousekeeping.com/home/decorating-ideas/tips/g1644/colorful-kitchens/
+- https://www.capterra.com/sem-compare/inventory-control-software/?utm_source=ps-google&utm_medium=ppc&gclid=Cj0KCQiA0eOPBhCGARIsAFIwTs4E2qVagpEIDa0mSNhcqnqdPkZvWv7cNT4mnnkiLXDL99prVMz9DvUaAhRhEALw_wcB
+- https://coolors.co/ for palette generation
+
+
 
 ### Acknowledgements
 
