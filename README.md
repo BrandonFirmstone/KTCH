@@ -98,3 +98,4 @@ The aim is to provide a modern solution to a modern problem. The audience is qui
 ### Acknowledgements
 
 - Table of contents generated with markdown-toc: https://ecotrust-canada.github.io/markdown-toc/
+- Wireframes created using Balsamiq provided by Code Institute: https://balsamiq.com/
