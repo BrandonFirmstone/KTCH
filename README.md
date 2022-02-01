@@ -46,9 +46,25 @@ The aim is to provide a modern solution to a modern problem. The audience is qui
 ## Project Concept
 ### Project Goals
 
+#### Business Goals
+
+- Produce a useful service for users to track their kitchen stock
+- Implement calls to action throughout to promote conversions (users creating accounts)
+
+#### User Goals
+
+- To track and manage food/ingredients in kitchen
+- Help the user to save money 
+- Help the user to keep organized
+- Stop the user from running out of food
+
 ### Project Features
 
-
+- Stock management system
+  * Create products
+  * Change stock levels
+- User account creation
+- Authorization required for certain services
 
 ## UX Design
 
