@@ -91,6 +91,7 @@ The aim is to provide a modern solution to a modern problem. The audience is qui
 ### Credits for Code
 
 - Bootstrap: https://getbootstrap.com/
+- JQuery: https://releases.jquery.com/
 
 ### Credits for Media
 
