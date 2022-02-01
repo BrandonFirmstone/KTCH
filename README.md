@@ -15,6 +15,9 @@ The aim is to provide a modern solution to a modern problem. The audience is qui
   * [Project Features](#project-features)
 - [UX Design](#ux-design)
   * [Wireframe Design](#wireframe-design)
+    - [Home Page Wireframe](#home-page-design)
+    - [Home Page Wireframe](#home-page-design)
+    - [Home Page Wireframe](#home-page-design)
   * [Flowchart](#flowchart)
   * [Mock-up](#mock-up)
 - [Features](#features)
@@ -48,7 +51,29 @@ The aim is to provide a modern solution to a modern problem. The audience is qui
 
 
 ## UX Design
+
 ### Wireframe Design
+
+The below are wireframe designs created using Balsamiq for individual pages on the site.
+Each wireframe includes mobile and desktop views.
+
+#### Home Page Design
+
+</br>
+
+![Home Page Wireframe](assets/images/home-wireframe.png)
+
+#### Features Page Design
+
+</br>
+
+![Features Page Wireframe](assets/images/features-wireframe.png)
+
+#### Stock Page Design
+
+</br>
+
+![Stock Page Wireframe](assets/images/stock-wireframe.png)
 
 ### Flowchart
 
