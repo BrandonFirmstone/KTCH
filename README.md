@@ -187,7 +187,40 @@ Each wireframe includes mobile and desktop views.
   * Registered users should be able to easily add and subtract from stock item quantity
   * Registered users should be able to attach images to stock items for easy identification
 
-### Mock-up
+### Mock-ups
+
+#### First Mock-up Review
+
+![First mock-up for index](assets/images/mock-ups/mockup-index-desktop-1.PNG)
+
+<table>
+<thead>
+  <tr>
+    <th>Positives</th>
+    <th>Negatives</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Double-header style looks appealing</td>
+    <td>Call to action is somewhat basic</td>
+  </tr>
+  <tr>
+    <td>Purple navbar stands out</td>
+    <td>Heavy and clear influence from Bootstrap</td>
+  </tr>
+  <tr>
+    <td>Footer is appealing</td>
+    <td>Doesn't seem to fit the purpose of the site</td>
+  </tr>
+  <tr>
+    <td>Call to action image stands out</td>
+    <td>Very basic landing page</td>
+  </tr>
+</tbody>
+</table>
+
+#### Second Mock-up Review
 
 ### Implemented Features
 
