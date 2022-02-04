@@ -143,7 +143,6 @@ Each wireframe includes mobile and desktop views.
 
 ### Flowchart
 
-### Mock-up
 
 
 ## Features
@@ -188,7 +187,7 @@ Each wireframe includes mobile and desktop views.
   * Registered users should be able to easily add and subtract from stock item quantity
   * Registered users should be able to attach images to stock items for easy identification
 
-
+### Mock-up
 
 ### Implemented Features
 
