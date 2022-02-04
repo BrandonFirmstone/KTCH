@@ -112,7 +112,47 @@ Each wireframe includes mobile and desktop views.
 
 
 ## Features
+### Business-related features
+- Calls to action to promote conversions (visitors registering as users)
+- Promoting features and unique selling points to users in a visually appealing fashion
+- Making the site as easy as possible to add and maintain pages and features
+- Legal information (Privacy policy, terms of service company details) need to be easily accessible
+- Contacting the business needs to be easy for users in order to promote good customer service
+
+### User-related features
+- Users would want to contact the company easily to fix any problems or make enquiries
+- Easily register an account and access the stock system
+- The site needs to be mobile friendly as users would want to access the system while moving around, for example going shopping, putting shopping away etc
+
+
 ### Initial Features Desired
+#### Features On All Pages
+* A header should be included on all pages, identical throughout
+  - When a user signs in, the header should reflect that the user is logged in
+  - The header should include the company logo
+  - The header should include navigation links to main pages
+  - The header should include 'Log in' and 'Sign up' for easy access
+* A footer should be included on all pages, identical throughout
+  - The footer should include links to all main pages as well as any pages including legal information
+  - The footer should display the company logo
+  - The footer should include some company information (company name, registration number, VAT number)
+  - The footer should include some contact details (address, email, phone number)
+
+#### Home Page Features
+* Home page should include a large call to action, similar to that on the wireframe
+
+#### User Account System
+  * Users should be able to create an account using their email address
+  * Users should be able to amend account information
+  * Users should be able to delete their account 
+  
+#### Stock Management System
+  * Registered(Authorized) users should be able to create stock items
+  * Registered users should be able to amend stock items they created
+  * Registered users should be able to easily add and subtract from stock item quantity
+  * Registered users should be able to attach images to stock items for easy identification
+
+
 
 ### Implemented Features
 
