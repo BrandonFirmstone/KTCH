@@ -83,7 +83,7 @@ Decided upon Merriweather Sans and Murecho from Google Fonts. Samples below:
 #### Merriweather
 ![Merriweather Font Sample](assets/images/merriweather-font-sample.png)
 
-### Wireframe Design
+### Initial Wireframe Design
 
 The below are wireframe designs created using Balsamiq for individual pages on the site.
 Each wireframe includes mobile and desktop views.
@@ -105,6 +105,41 @@ Each wireframe includes mobile and desktop views.
 </br>
 
 ![Stock Page Wireframe](assets/images/stock-wireframe.png)
+
+### Pages Required
+
+#### Index Page
+
+- index.html acts as the home page/landing page
+- First impressions matter, the home page needs to be attention-grabbing and selling KTCH
+- Needs to help move users further into the site to other pages, for example promote a user to look at features or register to try it out.
+
+#### About Page
+
+- Replacing the idea for a features page, an about page could cover a lot more ground than just a features page.
+- Needs to tell the user all of the benefits of the site as well as why it exists.
+
+#### Contact Page
+
+- Contact page is required for customer service and technical support
+- If the user has any issues or questions, they can use the contact page to get in touch
+- Having easily contactable customer services should assist in converting visitors to regular users and help retain existing users
+
+#### Sign Up / Register Page
+
+- Page for users to sign up or register an account for KTCH
+- Should be simple and easy to use
+- Button or link should be on the page to redirect user if they have already got an account
+
+#### Sign in / Log in page
+
+- Page for users to log into their accounts
+- Should have an option for if the user has forgotten their password
+- Button or link should be on the page to redirect user if they have not got an account
+
+#### KTCH System Page
+
+- Page for accessing the stock management side of the site
 
 ### Flowchart
 
