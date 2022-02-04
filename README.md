@@ -112,20 +112,21 @@ Each wireframe includes mobile and desktop views.
 
 
 ## Features
-### Business-related features
+
+### Potential Business-related features
 - Calls to action to promote conversions (visitors registering as users)
 - Promoting features and unique selling points to users in a visually appealing fashion
 - Making the site as easy as possible to add and maintain pages and features
 - Legal information (Privacy policy, terms of service company details) need to be easily accessible
 - Contacting the business needs to be easy for users in order to promote good customer service
 
-### User-related features
+### Potential User-related features
 - Users would want to contact the company easily to fix any problems or make enquiries
 - Easily register an account and access the stock system
 - The site needs to be mobile friendly as users would want to access the system while moving around, for example going shopping, putting shopping away etc
 
 
-### Initial Features Desired
+### Features Desired
 #### Features On All Pages
 * A header should be included on all pages, identical throughout
   - When a user signs in, the header should reflect that the user is logged in
