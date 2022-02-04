@@ -191,6 +191,8 @@ Each wireframe includes mobile and desktop views.
 
 #### First Mock-up Review
 
+Using Bootstrap I created a mock-up based on the features and wire frames above. The mock-up leans heavily on Bootstrap for styling and layout.
+
 ![First mock-up for index](assets/images/mock-ups/mockup-index-desktop-1.PNG)
 
 <table>
